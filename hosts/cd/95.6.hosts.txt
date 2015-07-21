@@ -1,0 +1,48 @@
+# 成都(95.6)
+
+#-----------docker 94.6 begin-----------#
+172.16.94.6 		    www.test1.com
+172.16.94.52 		control.test1.com
+172.16.94.50 		    eim.test1.com
+172.16.94.54 		   eim2.test1.com
+172.16.94.51 		     gs.test1.com
+172.16.94.69 		   solr.test1.com
+172.16.94.6 		    fha.test1.com
+172.16.94.53 		   file.test1.com
+172.16.94.6 		    doc.test1.com
+172.16.94.6 		    web.test1.com
+172.16.94.64 	   mgtagent.test1.com
+172.16.94.65 	  mgtshadow.test1.com
+172.16.94.66 		 mgtsso.test1.com
+#-----------end------------#
+
+#-----------docker 95.6 begin-----------#
+172.16.95.6 		 www-cd.test1.com
+172.16.95.52 	 control-cd.test1.com
+172.16.95.50 		 eim-cd.test1.com
+172.16.95.54 		eim2-cd.test1.com
+172.16.95.51 		  gs-cd.test1.com
+172.16.95.69 		solr-cd.test1.com
+172.16.95.6 		 fha-cd.test1.com
+172.16.95.53 		file-cd.test1.com
+172.16.95.6 		 doc-cd.test1.com
+172.16.95.6 		 web-cd.test1.com
+172.16.95.64 	mgtagent-cd.test1.com
+172.16.95.65   mgtshadow-cd.test1.com
+172.16.95.66 	  mgtsso-cd.test1.com
+#-----------end------------#
+
+172.16.95.6			jms
+172.16.95.6			ehcache
+172.16.95.6			mariadb
+172.16.95.6			mongodb
+172.16.95.6			zookeeper
+172.16.95.6			memcached1
+172.16.95.6			memcached2
+172.16.95.6			search
+172.16.95.70		account
+172.16.95.68		mgt2
+172.16.95.67		mgt
+172.16.95.64		mgtagent
+172.16.95.65		mgtshadow
+172.16.95.6			dubbomonitor
